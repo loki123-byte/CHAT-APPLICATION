@@ -38,3 +38,6 @@ A fully functional real-time chat application built using Socket.IO, Node.js, an
 
 OUTPUT:
 
+<img width="990" height="574" alt="Image" src="https://github.com/user-attachments/assets/d318c160-47e1-414d-8cb8-a0f2ef7bee98" />
+
+
